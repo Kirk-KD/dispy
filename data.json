@@ -1,0 +1,35 @@
+{
+    "180820697360": {
+        "event_type": "DM Message Received",
+        "timestamp": "2021-10-24 22:47:59.962000",
+        "data": {
+            "message_id": 901965277925892106,
+            "content": "j",
+            "user_id": 711712742310019073,
+            "embeds": [],
+            "attachments": []
+        }
+    },
+    "180821403218": {
+        "event_type": "DM Message Received",
+        "timestamp": "2021-10-24 22:48:19.156000",
+        "data": {
+            "message_id": 901965358431363153,
+            "content": "Jjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj",
+            "user_id": 711712742310019073,
+            "embeds": [],
+            "attachments": []
+        }
+    },
+    "180821369628": {
+        "event_type": "DM Message Received",
+        "timestamp": "2021-10-24 22:50:14.467000",
+        "data": {
+            "message_id": 901965842080731167,
+            "content": "JasonPlayzs20",
+            "user_id": 711712742310019073,
+            "embeds": [],
+            "attachments": []
+        }
+    }
+}
